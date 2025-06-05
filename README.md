@@ -1,6 +1,7 @@
 # ProjetoBanco
 
 Projeto de Sistema Bancário Simplificado
+
 Este documento detalha a estrutura e as funcionalidades de um sistema bancário desenvolvido em Python, seguindo os princípios da programação orientada a objetos, tratamento de exceções e persistência de dados.
 1. Definição do Sistema (Descrição do Problema a ser Resolvido)
 O projeto visa simular as operações fundamentais de um sistema bancário. O problema a ser resolvido é a criação, gerenciamento e persistência de contas bancárias de clientes, permitindo transações básicas como saques, depósitos e transferências.
